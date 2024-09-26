@@ -1,0 +1,5 @@
+../Src/uart.c:11:6:init_uart	4
+../Src/uart.c:38:6:uartputc	2
+../Src/uart.c:45:9:uartgetc	2
+../Src/uart.c:52:6:uartputs	2
+../Src/uart.c:58:6:uartgets	2
